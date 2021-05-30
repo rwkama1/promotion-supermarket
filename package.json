@@ -1,0 +1,16 @@
+{
+  "name": "supermarket-promotion",
+  "version": "1.0.0",
+  "description": "In a supermarket there is a promotion for the first 10 customers, whereby the customer gets a discount from a number that is chosen at random. If the chosen number is less than 50, the discount is 15% of the total purchase, if it is greater than or equal to 50 the discount is 20%. Obtain how much money is deducted from each customer and the total to pay.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/promotion-supermarket"
+  },
+ 
+  "keywords": ["js","javascript","calculation","supermarket","customer","discount","purchase"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
